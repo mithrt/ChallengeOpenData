@@ -1,0 +1,21 @@
+{
+    "01": "guadeloupe",
+    "02": "martinique",
+    "03": "guyane",
+    "04": "la reunion",
+    "06": "mayotte",
+    "11": "ile de france",
+    "24": "centre val de loire",
+    "27": "bourgogne franche comte",
+    "28": "normandie",
+    "32": "hauts de france",
+    "44": "grand est",
+    "52": "pays de la loire",
+    "53": "bretagne",
+    "75": "nouvelle aquitaine",
+    "76": "occitanie",
+    "84": "auvergne rhone alpes",
+    "93": "provence alpes cote dazur",
+    "94": "corse",
+    "COM": "collectivites doutre mer"
+}
