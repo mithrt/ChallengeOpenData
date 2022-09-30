@@ -1,0 +1,438 @@
+{
+    "01": {
+        "CodeRegion": "84",
+        "NomDepartement": "ain"
+    },
+    "02": {
+        "CodeRegion": "32",
+        "NomDepartement": "aisne"
+    },
+    "03": {
+        "CodeRegion": "84",
+        "NomDepartement": "allier"
+    },
+    "04": {
+        "CodeRegion": "93",
+        "NomDepartement": "alpes de haute provence"
+    },
+    "05": {
+        "CodeRegion": "93",
+        "NomDepartement": "hautes alpes"
+    },
+    "06": {
+        "CodeRegion": "93",
+        "NomDepartement": "alpes maritimes"
+    },
+    "07": {
+        "CodeRegion": "84",
+        "NomDepartement": "ardeche"
+    },
+    "08": {
+        "CodeRegion": "44",
+        "NomDepartement": "ardennes"
+    },
+    "09": {
+        "CodeRegion": "76",
+        "NomDepartement": "ariege"
+    },
+    "10": {
+        "CodeRegion": "44",
+        "NomDepartement": "aube"
+    },
+    "11": {
+        "CodeRegion": "76",
+        "NomDepartement": "aude"
+    },
+    "12": {
+        "CodeRegion": "76",
+        "NomDepartement": "aveyron"
+    },
+    "13": {
+        "CodeRegion": "93",
+        "NomDepartement": "bouches du rhone"
+    },
+    "14": {
+        "CodeRegion": "28",
+        "NomDepartement": "calvados"
+    },
+    "15": {
+        "CodeRegion": "84",
+        "NomDepartement": "cantal"
+    },
+    "16": {
+        "CodeRegion": "75",
+        "NomDepartement": "charente"
+    },
+    "17": {
+        "CodeRegion": "75",
+        "NomDepartement": "charente maritime"
+    },
+    "18": {
+        "CodeRegion": "24",
+        "NomDepartement": "cher"
+    },
+    "19": {
+        "CodeRegion": "75",
+        "NomDepartement": "correze"
+    },
+    "21": {
+        "CodeRegion": "27",
+        "NomDepartement": "cote dor"
+    },
+    "22": {
+        "CodeRegion": "53",
+        "NomDepartement": "cotes darmor"
+    },
+    "23": {
+        "CodeRegion": "75",
+        "NomDepartement": "creuse"
+    },
+    "24": {
+        "CodeRegion": "75",
+        "NomDepartement": "dordogne"
+    },
+    "25": {
+        "CodeRegion": "27",
+        "NomDepartement": "doubs"
+    },
+    "26": {
+        "CodeRegion": "84",
+        "NomDepartement": "drome"
+    },
+    "27": {
+        "CodeRegion": "28",
+        "NomDepartement": "eure"
+    },
+    "28": {
+        "CodeRegion": "24",
+        "NomDepartement": "eure et loir"
+    },
+    "29": {
+        "CodeRegion": "53",
+        "NomDepartement": "finistere"
+    },
+    "2A": {
+        "CodeRegion": "94",
+        "NomDepartement": "corse du sud"
+    },
+    "2B": {
+        "CodeRegion": "94",
+        "NomDepartement": "haute corse"
+    },
+    "30": {
+        "CodeRegion": "76",
+        "NomDepartement": "gard"
+    },
+    "31": {
+        "CodeRegion": "76",
+        "NomDepartement": "haute garonne"
+    },
+    "32": {
+        "CodeRegion": "76",
+        "NomDepartement": "gers"
+    },
+    "33": {
+        "CodeRegion": "75",
+        "NomDepartement": "gironde"
+    },
+    "34": {
+        "CodeRegion": "76",
+        "NomDepartement": "herault"
+    },
+    "35": {
+        "CodeRegion": "53",
+        "NomDepartement": "ille et vilaine"
+    },
+    "36": {
+        "CodeRegion": "24",
+        "NomDepartement": "indre"
+    },
+    "37": {
+        "CodeRegion": "24",
+        "NomDepartement": "indre et loire"
+    },
+    "38": {
+        "CodeRegion": "84",
+        "NomDepartement": "isere"
+    },
+    "39": {
+        "CodeRegion": "27",
+        "NomDepartement": "jura"
+    },
+    "40": {
+        "CodeRegion": "75",
+        "NomDepartement": "landes"
+    },
+    "41": {
+        "CodeRegion": "24",
+        "NomDepartement": "loir et cher"
+    },
+    "42": {
+        "CodeRegion": "84",
+        "NomDepartement": "loire"
+    },
+    "43": {
+        "CodeRegion": "84",
+        "NomDepartement": "haute loire"
+    },
+    "44": {
+        "CodeRegion": "52",
+        "NomDepartement": "loire atlantique"
+    },
+    "45": {
+        "CodeRegion": "24",
+        "NomDepartement": "loiret"
+    },
+    "46": {
+        "CodeRegion": "76",
+        "NomDepartement": "lot"
+    },
+    "47": {
+        "CodeRegion": "75",
+        "NomDepartement": "lot et garonne"
+    },
+    "48": {
+        "CodeRegion": "76",
+        "NomDepartement": "lozere"
+    },
+    "49": {
+        "CodeRegion": "52",
+        "NomDepartement": "maine et loire"
+    },
+    "50": {
+        "CodeRegion": "28",
+        "NomDepartement": "manche"
+    },
+    "51": {
+        "CodeRegion": "44",
+        "NomDepartement": "marne"
+    },
+    "52": {
+        "CodeRegion": "44",
+        "NomDepartement": "haute marne"
+    },
+    "53": {
+        "CodeRegion": "52",
+        "NomDepartement": "mayenne"
+    },
+    "54": {
+        "CodeRegion": "44",
+        "NomDepartement": "meurthe et moselle"
+    },
+    "55": {
+        "CodeRegion": "44",
+        "NomDepartement": "meuse"
+    },
+    "56": {
+        "CodeRegion": "53",
+        "NomDepartement": "morbihan"
+    },
+    "57": {
+        "CodeRegion": "44",
+        "NomDepartement": "moselle"
+    },
+    "58": {
+        "CodeRegion": "27",
+        "NomDepartement": "nievre"
+    },
+    "59": {
+        "CodeRegion": "32",
+        "NomDepartement": "nord"
+    },
+    "60": {
+        "CodeRegion": "32",
+        "NomDepartement": "oise"
+    },
+    "61": {
+        "CodeRegion": "28",
+        "NomDepartement": "orne"
+    },
+    "62": {
+        "CodeRegion": "32",
+        "NomDepartement": "pas de calais"
+    },
+    "63": {
+        "CodeRegion": "84",
+        "NomDepartement": "puy de dome"
+    },
+    "64": {
+        "CodeRegion": "75",
+        "NomDepartement": "pyrenees atlantiques"
+    },
+    "65": {
+        "CodeRegion": "76",
+        "NomDepartement": "hautes pyrenees"
+    },
+    "66": {
+        "CodeRegion": "76",
+        "NomDepartement": "pyrenees orientales"
+    },
+    "67": {
+        "CodeRegion": "44",
+        "NomDepartement": "bas rhin"
+    },
+    "68": {
+        "CodeRegion": "44",
+        "NomDepartement": "haut rhin"
+    },
+    "69": {
+        "CodeRegion": "84",
+        "NomDepartement": "rhone"
+    },
+    "70": {
+        "CodeRegion": "27",
+        "NomDepartement": "haute saone"
+    },
+    "71": {
+        "CodeRegion": "27",
+        "NomDepartement": "saone et loire"
+    },
+    "72": {
+        "CodeRegion": "52",
+        "NomDepartement": "sarthe"
+    },
+    "73": {
+        "CodeRegion": "84",
+        "NomDepartement": "savoie"
+    },
+    "74": {
+        "CodeRegion": "84",
+        "NomDepartement": "haute savoie"
+    },
+    "75": {
+        "CodeRegion": "11",
+        "NomDepartement": "paris"
+    },
+    "76": {
+        "CodeRegion": "28",
+        "NomDepartement": "seine maritime"
+    },
+    "77": {
+        "CodeRegion": "11",
+        "NomDepartement": "seine et marne"
+    },
+    "78": {
+        "CodeRegion": "11",
+        "NomDepartement": "yvelines"
+    },
+    "79": {
+        "CodeRegion": "75",
+        "NomDepartement": "deux sevres"
+    },
+    "80": {
+        "CodeRegion": "32",
+        "NomDepartement": "somme"
+    },
+    "81": {
+        "CodeRegion": "76",
+        "NomDepartement": "tarn"
+    },
+    "82": {
+        "CodeRegion": "76",
+        "NomDepartement": "tarn et garonne"
+    },
+    "83": {
+        "CodeRegion": "93",
+        "NomDepartement": "var"
+    },
+    "84": {
+        "CodeRegion": "93",
+        "NomDepartement": "vaucluse"
+    },
+    "85": {
+        "CodeRegion": "52",
+        "NomDepartement": "vendee"
+    },
+    "86": {
+        "CodeRegion": "75",
+        "NomDepartement": "vienne"
+    },
+    "87": {
+        "CodeRegion": "75",
+        "NomDepartement": "haute vienne"
+    },
+    "88": {
+        "CodeRegion": "44",
+        "NomDepartement": "vosges"
+    },
+    "89": {
+        "CodeRegion": "27",
+        "NomDepartement": "yonne"
+    },
+    "90": {
+        "CodeRegion": "27",
+        "NomDepartement": "territoire de belfort"
+    },
+    "91": {
+        "CodeRegion": "11",
+        "NomDepartement": "essonne"
+    },
+    "92": {
+        "CodeRegion": "11",
+        "NomDepartement": "hauts de seine"
+    },
+    "93": {
+        "CodeRegion": "11",
+        "NomDepartement": "seine saint denis"
+    },
+    "94": {
+        "CodeRegion": "11",
+        "NomDepartement": "val de marne"
+    },
+    "95": {
+        "CodeRegion": "11",
+        "NomDepartement": "val doise"
+    },
+    "971": {
+        "CodeRegion": "01",
+        "NomDepartement": "guadeloupe"
+    },
+    "972": {
+        "CodeRegion": "02",
+        "NomDepartement": "martinique"
+    },
+    "973": {
+        "CodeRegion": "03",
+        "NomDepartement": "guyane"
+    },
+    "974": {
+        "CodeRegion": "04",
+        "NomDepartement": "la reunion"
+    },
+    "976": {
+        "CodeRegion": "06",
+        "NomDepartement": "mayotte"
+    },
+    "975": {
+        "CodeRegion": "COM",
+        "NomDepartement": "saint pierre et miquelon"
+    },
+    "977": {
+        "CodeRegion": "COM",
+        "NomDepartement": "saint barthelemy"
+    },
+    "978": {
+        "CodeRegion": "COM",
+        "NomDepartement": "saint martin"
+    },
+    "984": {
+        "CodeRegion": "COM",
+        "NomDepartement": "terres australes et antarctiques francaises"
+    },
+    "986": {
+        "CodeRegion": "COM",
+        "NomDepartement": "wallis et futuna"
+    },
+    "987": {
+        "CodeRegion": "COM",
+        "NomDepartement": "polynesie francaise"
+    },
+    "988": {
+        "CodeRegion": "COM",
+        "NomDepartement": "nouvelle caledonie"
+    },
+    "989": {
+        "CodeRegion": "COM",
+        "NomDepartement": "ile de clipperton"
+    }
+}
